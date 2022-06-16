@@ -18,7 +18,7 @@ locations=(
 '
 
 locations=(
-"~/"
+~/
 )
 
 nicknames=(
